@@ -171,7 +171,7 @@
 package dburl
 
 import (
-	"database/sql"
+	"github.com/relloyd/go-sql/database/sql"
 )
 
 // Error is a dburl error.
